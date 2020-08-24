@@ -1,5 +1,5 @@
 # MNIST-dataset
-MNIST dataset of handwritten digits
+MNIST dataset of handwritten digits (mnist.npz)
 
 n = 70,000 (n_train = 60,000 and n_test = 10,000)
 
